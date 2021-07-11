@@ -52,7 +52,7 @@ The workflow to develop this program was as follows:
 
 <a href="https://drive.google.com/file/d/1ScqBnpjudrtMHInzozW9GtLtHD4nA73d/view?usp=sharing
 " target="_blank"><img src="https://github.com/danimaaz/Jump-Rope-Counter/blob/main/Images/example%20screenshot.png" 
-alt="Figure 4" width="240" height="180" border="10" /></a>
+alt="Figure 4" width="400" height="400" border="10" /></a>
       
 ## Conclusion
 
